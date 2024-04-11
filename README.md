@@ -1,1 +1,1 @@
-chatbot using NLP(project)
+chatbot using Natural Language Processing
